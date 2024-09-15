@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4313758388d6eca45b8353f8e363b059
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - bulletToSpawn: {instanceID: 0}
+  - defaultZombieSpawn: {fileID: 919132149155446097, guid: 74b4f837c6243624bb6b44c97b59b7e8, type: 3}
+  - house: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
